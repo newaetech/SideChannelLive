@@ -56,6 +56,8 @@ To access this:
 
 # Open Challenges #
 
+Files are hosted [as a github release](https://github.com/newaetech/SideChannelLive/releases/tag/ches2017) .
+
 ### File Format Conversion ###
 
 The files provided are in the ChipWhisperer format, which is really just a NumPy format.
